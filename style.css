@@ -808,6 +808,7 @@ header {
   .modern-card {
     margin: 0 auto 20px;
     padding: 16px;
+    min-height: 40px;
   }
   .modern-card h4 {
     font-size: 18px;
