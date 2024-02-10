@@ -763,6 +763,10 @@ header {
   }
   .order-card h4 {
     font-size: 18px;
+    margin-top: 8px;
+  }
+  .order-card p {
+    min-height: 100px;
   }
   .testimonials-content {
     max-width: 100%;
